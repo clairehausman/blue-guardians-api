@@ -1,0 +1,494 @@
+{
+  "contents": [
+    {
+      "id": "1",
+      "titulo": "Introdução aos Ecossistemas Marinhos",
+      "imagem": "assets/images/card_1.jpg",
+      "texto": "Conheça a diversidade dos oceanos e sua importância na regulação do clima..",
+      "descricao": "Os ecossistemas marinhos são ambientes naturais formados por organismos vivos (como peixes, corais, algas, moluscos, etc.) e elementos não vivos (como água salgada, luz solar e nutrientes), que interagem entre si nos oceanos e mares. Eles cobrem cerca de 70% da superfície da Terra e são essenciais para a vida no planeta, pois regulam o clima, produzem oxigênio e fornecem alimentos e recursos para milhões de espécies, incluindo os seres humanos. Os ecossistemas marinhos são complexos ambientes aquáticos que abrigam uma enorme diversidade de vida, desde pequenos organismos microscópicos até grandes mamíferos marinhos. Eles desempenham um papel fundamental na manutenção do equilíbrio climático global, regulando a temperatura e absorvendo dióxido de carbono. Esses ecossistemas também sustentam inúmeras comunidades humanas, fornecendo alimento, empregos e proteção costeira.",
+      "video1": "https://www.youtube.com/embed/8H1F-uN8EcE",
+      "video2": "https://www.youtube.com/embed/FVP4FCATMjk",
+      "video3": "https://www.youtube.com/embed/FVP4FCATMjk"
+    },
+    {
+      "id": "2",
+      "titulo": "A Importância dos Recifes de Corais",
+      "imagem": "assets/images/card_2.jpg",
+      "texto": "Recifes são habitats ricos em biodiversidade e barreiras naturais contra a erosão...",
+      "descricao": "Apesar de parecerem uma grande quantidade de rochas, os recifes de corais são, na realidade, formações produzidas, principalmente, por um animal marinho denominado genericamente de coral. Esse animal é adaptado a viver em colônias e produz um esqueleto formado de carbonato de cálcio em sua volta durante toda a sua vida. Quando esses animais morrem, novos surgem e dão origem a mais esqueletos. Além dos corais, outros organismos podem fazer parte da formação dos recifes por intermédio da produção de esqueleto calcário, como é o caso de algumas algas.",
+      "video1": "https://www.youtube.com/embed/lb65_bzYWKw",
+      "video2": "https://www.youtube.com/embed/NgqWoiMuwj8",
+      "video3": "https://www.youtube.com/embed/TaTgUaJRRfQ"
+    },
+    {
+      "id": "3",
+      "titulo": "Espécies Ameaçadas dos Oceanos",
+      "imagem": "assets/images/card_3.jpg",
+      "texto": "Tartarugas, baleias e tubarões enfrentam riscos causados por pesca predatória...",
+      "descricao": "Os oceanos abrigam uma grande variedade de espécies marinhas, desde pequenos plânctons até enormes baleias. Essas espécies desempenham um papel vital no ecossistema oceânico, fornecendo alimento e habitat para outras criaturas e ajudando a regular o clima do planeta. Infelizmente, muitas espécies marinhas estão ameaçadas de extinção devido a uma série de atividades humanas. Neste artigo, exploraremos as causas e consequências das espécies marinhas ameaçadas, daremos uma olhada em alguns exemplos de espécies em risco e examinaremos os esforços que estão sendo feitos para proteger e conservar essas importantes criaturas.",
+      "video1": "https://www.youtube.com/embed/WkI6brDz5UU",
+      "video2": "https://www.youtube.com/embed/yN4OcSL8qqA",
+      "video3": "https://www.youtube.com/embed/ueUHjhEXil0"
+    },
+    {
+      "id": "4",
+      "titulo": "Impactos da Poluição Marinha",
+      "imagem": "assets/images/card_4.jpg",
+      "texto": "Plásticos, produtos químicos e esgoto afetam diretamente os seres marinhos...",
+      "descricao": "Poluição marinha é a introdução voluntária ou involuntária de materiais de diferentes naturezas na água dos mares e oceanos de todo o mundo, tendo como principal agente causador o ser humano. Ações humanas como o descarte irregular de lixo e de dejetos urbanos, os resíduos de atividades econômicas e o derramamento de petróleo provocam a poluição marinha. Nota-se, ainda, que no último século a elevação das temperaturas do planeta tem afetado negativamente os oceanos.",
+      "video1": "https://www.youtube.com/embed/08RcT3eiuhw",
+      "video2": "https://www.youtube.com/embed/n8KAFTJne4A",
+      "video3": "https://www.youtube.com/embed/HI4xaXuzXAw"
+    },
+    {
+      "id": "5",
+      "titulo": "Mudanças Climáticas e os Oceanos",
+      "imagem": "assets/images/card_5.jpg",
+      "texto": "O aumento da temperatura global afeta a acidez dos oceanos, altera habitats...",
+      "descricao": "Uma maior concentração de gases causadores do efeito estufa está intimamente relacionada ao aumento da temperatura média da atmosfera. E os oceanos apresentam um preocupante papel nessa situação. O Painel Intergovernamental sobre as Alterações Climáticas (IPCC) aponta que eles poderão sofrer alternações inimagináveis, com temperaturas mais altas, água mais ácida, menos oxigênio e condições de produção de recursos alteradas. Do calor produzido pelo aquecimento global, aproximadamente 90% são retidos pelo oceano, que consegue absorver vinte vezes mais calor que a atmosfera. Ou seja, as águas oceânicas absorvem praticamente um terço de toda a emissão de CO2, provocando a diminuição do pH da água e tornando-a mais ácida.Essa acidificação coloca em risco diversos ecossistemas marinhos, como por exemplo os recifes de coral, pois abala a fixação de carbonato de cálcio em conchas, ouriços do mar e outras espécies. A redução de oxigênio nos mares leva a um aumento da produção de óxido nitroso, gás agravador do efeito estufa.",
+      "video1": "https://www.youtube.com/embed/8VA9fIRQnDg",
+      "video2": "https://www.youtube.com/embed/VgVXWaYEEkk",
+      "video3": "https://www.youtube.com/embed/-49S5T1hZWE"
+    },
+    {
+      "id": "6",
+      "titulo": "Soluções para a Conservação Marinha",
+      "imagem": "assets/images/card_6.jpg",
+      "texto": "Áreas de proteção, educação ambiental e consumo consciente...",
+      "descricao": "Não importa onde vivemos, os oceanos são essenciais para nossa vida. Eles fornecem 50% do oxigênio que respiramos e abrigam peixes e outras espécies que fornecem alimento e renda para mais de três bilhões de pessoas. Seus recifes de corais e de ostras, além de florestas de algas abrigam a vida marinha e protegem nossas costas reduzindo a energia das ondas e das marés de tempestade. Nas margens dos oceanos, as terras úmidas costeiras, tais como manguezais, pântanos de água salgada e prados de sargaços, também protegem nosso litoral. Eles também absorvem o carbono à medida que crescem e o transferem para suas folhas, caules e os solos ricos sustentados por suas raízes. Esse “carbono azul” pode permanecer no solo por milhares de anos. Na realidade, as terras úmidas costeiras armazenam cinco vezes mais carbono por hectare do que as florestas tropicais, ajudando a reduzir a evolução da mudança climática.",
+      "video1": "https://www.youtube.com/embed/5p_fyYCew7A",
+      "video2": "https://www.youtube.com/embed/OiJYjkmtIns",
+      "video3": "https://www.youtube.com/embed/QoAAbL0ubX0"
+    }
+  ],
+  "tabData": [
+    {
+      "id": "student",
+      "label": "Estudante",
+      "icon": "assets/images/student.png",
+      "cards": [
+        "assets/images/class_student_1.png",
+        "assets/images/class_student_2.png",
+        "assets/images/class_student_3.jpg"
+      ]
+    },
+    {
+      "id": "teacher",
+      "label": "Professor(a)",
+      "icon": "assets/images/teacher.png",
+      "cards": [
+        "assets/images/class_1.png",
+        "assets/images/class_2.png",
+        "assets/images/class_3.png"
+      ]
+    },
+    {
+      "id": "parent",
+      "label": "Pai ou Mãe",
+      "icon": "assets/images/father.png",
+      "cards": [
+        "assets/images/class_father_1.jpg",
+        "assets/images/class_father_2.png",
+        "assets/images/class_father_3.jpg"
+      ]
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "5157",
+      "contentId": 1,
+      "usuario": "Anônimo",
+      "texto": "achei muito legal esse conteúdo",
+      "data": "2025-05-27T21:31:52.198Z"
+    },
+    {
+      "id": "0d5a",
+      "contentId": 3,
+      "usuario": "Anônimo",
+      "texto": "gostei muito disso aqui",
+      "data": "2025-05-27T21:32:47.392Z"
+    },
+    {
+      "id": "7ed3",
+      "contentId": 5,
+      "usuario": "Anônimo",
+      "texto": "teste 001",
+      "data": "2025-05-30T17:19:53.010Z"
+    },
+    {
+      "id": "a103",
+      "contentId": 5,
+      "usuario": "Anônimo",
+      "texto": "muitom bom",
+      "data": "2025-06-18T13:56:01.876Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "João da Costa",
+      "email": "joao@email.com",
+      "password": "123456",
+      "type": "Explorador Aprendiz (ou Estudante)",
+      "bio": "Amo o oceano e suas criaturas.",
+      "urls": [
+        "https://perfil.com",
+        "https://x.com"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Guilherme Soares",
+      "email": "guilhermesoares@email.com",
+      "password": "456767",
+      "type": "Explorador Aprendiz (ou Estudante)",
+      "bio": "Amo o oceano e suas criaturas.",
+      "urls": [
+        "https://perfil.com",
+        "https://x.com"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Lucas Prates Comedia",
+      "email": "lucasprates@email.com",
+      "password": "999999",
+      "type": "Explorador Aprendiz (ou Estudante)",
+      "bio": "Amo o oceano e suas criaturas.",
+      "urls": [
+        "https://perfil.com",
+        "https://x.com"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Joana",
+      "email": "Joana@email.com",
+      "password": "12345",
+      "type": "Explorador Aprendiz (ou Estudante)",
+      "bio": "Amo o oceano e suas criaturas.",
+      "urls": [
+        "https://perfil.com",
+        "https://x.com"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Mutirão de Limpeza da Praia",
+      "date": "2025-06-10T07:30:00",
+      "organizer": "Guardas do Mar",
+      "address": {
+        "cep": "42810-000",
+        "street": "Praia de Itacimirim",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "Praia de Itacimirim, Camaçari - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Evento para limpeza e educação ambiental.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Palestra sobre Biomas Costeiros",
+      "date": "2025-06-15T00:00:00",
+      "organizer": "Instituto Verde",
+      "address": {
+        "cep": "",
+        "street": "IFBA - Campus Camaçari",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "IFBA - Campus Camaçari",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Palestra com especialistas em ecossistemas marinhos.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "3",
+      "title": "Festa sobre Biomas Costeiros",
+      "date": "2025-06-01T00:00:00",
+      "organizer": "Instituto Verde",
+      "address": {
+        "cep": "",
+        "street": "IFBA - Campus Camaçari",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "IFBA - Campus Camaçari",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Celebração com foco em cultura e meio ambiente.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "4",
+      "title": "Aula Aberta de Ecologia Marinha",
+      "date": "2025-06-20T00:00:00",
+      "organizer": "UFBA",
+      "address": {
+        "cep": "",
+        "street": "Orla de Arembepe",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "Orla de Arembepe",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Introdução à vida marinha para a comunidade.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "5",
+      "title": "Zelando pelos Recifes",
+      "date": "2025-06-05T00:00:00",
+      "organizer": "ONG Oceano Vivo",
+      "address": {
+        "cep": "",
+        "street": "Praia do Forte",
+        "number": "s/n",
+        "district": "",
+        "city": "Mata de São João",
+        "state": "BA"
+      },
+      "location": "Praia do Forte",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Campanha de conscientização e mergulho educativo.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "6",
+      "title": "Corrida Azul pela Natureza",
+      "date": "2025-05-01T00:00:00",
+      "organizer": "Corredores Verdes",
+      "address": {
+        "cep": "",
+        "street": "Centro de Camaçari",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "Centro de Camaçari",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Corrida temática com foco ambiental.",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "7",
+      "title": "Oficina de Reciclagem Criativa",
+      "date": "2025-07-01T00:00:00",
+      "organizer": "EcoCriar",
+      "address": {
+        "cep": "",
+        "street": "Escola Municipal de Itacimirim",
+        "number": "s/n",
+        "district": "",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "Escola Municipal de Itacimirim",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Aprenda a transformar resíduos em arte!",
+      "categories": [
+        "Limpeza",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "8",
+      "title": "Oficina de Arte Sustentável",
+      "description": "Participe de uma oficina prática onde arte e sustentabilidade se encontram. Vamos criar peças reutilizando materiais recicláveis, promovendo a conscientização ambiental de forma criativa e colaborativa.",
+      "date": "2025-06-15T14:00",
+      "organizer": "Instituto VerdeVivo",
+      "address": {
+        "cep": "57045045",
+        "street": "Rua Doutor George Arroxelas",
+        "number": "120",
+        "district": "Barro Duro",
+        "city": "Maceió",
+        "state": "AL",
+        "referencia": "Próximo ao Parque Municipal"
+      },
+      "location": "Rua Doutor George Arroxelas, 120 - Barro Duro (Próximo ao Parque Municipal) - Maceió - Alagoas",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "categories": [
+        "Educação ambiental",
+        "Arte e Cultura"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "10",
+      "title": "Plantio de Mudas Nativas",
+      "date": "2025-08-05T09:00:00",
+      "organizer": "Refloresta Brasil",
+      "address": {
+        "cep": "41745-000",
+        "street": "Parque Metropolitano",
+        "number": "s/n",
+        "district": "Imbuí",
+        "city": "Salvador",
+        "state": "BA"
+      },
+      "location": "Parque Metropolitano - Salvador - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Ação coletiva de reflorestamento urbano.",
+      "categories": [
+        "Reflorestamento",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "11",
+      "title": "Passeio Ecológico com Estudantes",
+      "date": "2025-08-12T07:30:00",
+      "organizer": "Projeto Jovem Verde",
+      "address": {
+        "cep": "41620-020",
+        "street": "Parque das Dunas",
+        "number": "100",
+        "district": "Praia do Flamengo",
+        "city": "Salvador",
+        "state": "BA"
+      },
+      "location": "Parque das Dunas - Salvador - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Atividade educativa com trilhas e oficinas ambientais.",
+      "categories": [
+        "Trilha",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "12",
+      "title": "Cine Ambiental",
+      "date": "2025-08-20T18:00:00",
+      "organizer": "CineEco Salvador",
+      "address": {
+        "cep": "40110-060",
+        "street": "Teatro Castro Alves",
+        "number": "s/n",
+        "district": "Campo Grande",
+        "city": "Salvador",
+        "state": "BA"
+      },
+      "location": "Teatro Castro Alves - Salvador - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Exibição de documentários ambientais com debate.",
+      "categories": [
+        "Cinema",
+        "Educação Ambiental"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "13",
+      "title": "Feira Sustentável de Artesanato",
+      "date": "2025-08-25T09:00:00",
+      "organizer": "Rede Artesãos do Mar",
+      "address": {
+        "cep": "42800-000",
+        "street": "Praça Abrantes",
+        "number": "s/n",
+        "district": "Centro",
+        "city": "Camaçari",
+        "state": "BA"
+      },
+      "location": "Praça Abrantes - Camaçari - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Feira com produtos reciclados e oficinas de arte.",
+      "categories": [
+        "Arte e Cultura",
+        "Sustentabilidade"
+      ],
+      "userId": 1
+    },
+    {
+      "id": "14",
+      "title": "Encontro de Educadores Ambientais",
+      "date": "2025-09-01T14:00:00",
+      "organizer": "Secretaria de Meio Ambiente",
+      "address": {
+        "cep": "40020-000",
+        "street": "Auditório da SME",
+        "number": "123",
+        "district": "Barris",
+        "city": "Salvador",
+        "state": "BA"
+      },
+      "location": "Auditório da SME - Salvador - BA",
+      "image": "assets/images/mockups/oficina-artes.png",
+      "description": "Discussão de políticas e metodologias educacionais.",
+      "categories": [
+        "Educação Ambiental",
+        "Gestão Pública"
+      ],
+      "userId": 1
+    }
+  ],
+  "complaints": [
+    {
+      "id": "9f41",
+      "titulo": "ffdfcd",
+      "descricao": "dcfdscds",
+      "data": "2025-06-17",
+      "hora": "20:59",
+      "categoria": "Poluição Sonora",
+      "imagem": "assets/images/complains_header.jpg"
+    },
+    {
+      "id": "7f98",
+      "titulo": "fdfdf",
+      "descricao": "fdfsd",
+      "data": "",
+      "hora": "",
+      "categoria": "",
+      "imagem": "assets/images/complains_header.jpg"
+    },
+    {
+      "id": "035e",
+      "titulo": "asaxax",
+      "descricao": "xscxs",
+      "data": "",
+      "hora": "",
+      "categoria": "Poluição Sonora",
+      "imagem": "assets/images/complains_header.jpg"
+    }
+  ]
+}

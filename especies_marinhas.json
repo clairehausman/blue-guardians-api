@@ -1,0 +1,348 @@
+[
+  {
+    "vernacularName": "Tartaruga-verde",
+    "scientificName": "Chelonia mydas",
+    "key": 10001
+  },
+  {
+    "vernacularName": "Cavalo-marinho",
+    "scientificName": "Hippocampus reidi",
+    "key": 10002
+  },
+  {
+    "vernacularName": "Estrela-do-mar",
+    "scientificName": "Asterias rubens",
+    "key": 10003
+  },
+  {
+    "vernacularName": "Baleia-jubarte",
+    "scientificName": "Megaptera novaeangliae",
+    "key": 10004
+  },
+  {
+    "vernacularName": "Peixe-boi-marinho",
+    "scientificName": "Trichechus manatus",
+    "key": 10005
+  },
+  {
+    "vernacularName": "Golfinho-nariz-de-garrafa",
+    "scientificName": "Tursiops truncatus",
+    "key": 10006
+  },
+  {
+    "vernacularName": "Arraia-jamanta",
+    "scientificName": "Manta birostris",
+    "key": 10007
+  },
+  {
+    "vernacularName": "Polvo-comum",
+    "scientificName": "Octopus vulgaris",
+    "key": 10008
+  },
+  {
+    "vernacularName": "Búzio",
+    "scientificName": "Strombus gigas",
+    "key": 10009
+  },
+  {
+    "vernacularName": "Moreia",
+    "scientificName": "Muraena helena",
+    "key": 10010
+  },
+  {
+    "vernacularName": "Garça-branca",
+    "scientificName": "Ardea alba",
+    "key": 10011
+  },
+  {
+    "vernacularName": "Atobá",
+    "scientificName": "Sula leucogaster",
+    "key": 10012
+  },
+  {
+    "vernacularName": "Peixe-papagaio",
+    "scientificName": "Scarus trispinosus",
+    "key": 10013
+  },
+  {
+    "vernacularName": "Tubarão-martelo",
+    "scientificName": "Sphyrna lewini",
+    "key": 10014
+  },
+  {
+    "vernacularName": "Manta-preta",
+    "scientificName": "Mobula tarapacana",
+    "key": 10015
+  },
+  {
+    "vernacularName": "Caranguejo-azul",
+    "scientificName": "Callinectes sapidus",
+    "key": 10016
+  },
+  {
+    "vernacularName": "Lula-gigante",
+    "scientificName": "Architeuthis dux",
+    "key": 10017
+  },
+  {
+    "vernacularName": "Peixe-leão",
+    "scientificName": "Pterois volitans",
+    "key": 10018
+  },
+  {
+    "vernacularName": "Moreia-verde",
+    "scientificName": "Gymnothorax funebris",
+    "key": 10019
+  },
+  {
+    "vernacularName": "Garoupa",
+    "scientificName": "Epinephelus itajara",
+    "key": 10020
+  },
+  {
+    "vernacularName": "Anêmona-do-mar",
+    "scientificName": "Actiniaria",
+    "key": 10021
+  },
+  {
+    "vernacularName": "Peixe-palhaço",
+    "scientificName": "Amphiprion ocellaris",
+    "key": 10022
+  },
+  {
+    "vernacularName": "Camarão-sete-barbas",
+    "scientificName": "Rhynchocinetes durbanensis",
+    "key": 10023
+  },
+  {
+    "vernacularName": "Caracol-do-mar",
+    "scientificName": "Nerita tessellata",
+    "key": 10024
+  },
+  {
+    "vernacularName": "Peixe-cirurgião",
+    "scientificName": "Acanthurus coeruleus",
+    "key": 10025
+  },
+  {
+    "vernacularName": "Moreia-malhada",
+    "scientificName": "Muraena helena",
+    "key": 10026
+  },
+  {
+    "vernacularName": "Baiacu",
+    "scientificName": "Tetraodontidae",
+    "key": 10027
+  },
+  {
+    "vernacularName": "Polvo-de-anéis-azuis",
+    "scientificName": "Hapalochlaena lunulata",
+    "key": 10028
+  },
+  {
+    "vernacularName": "Estrela-do-mar-laranja",
+    "scientificName": "Echinaster sepositus",
+    "key": 10029
+  },
+  {
+    "vernacularName": "Baleia-azul",
+    "scientificName": "Balaenoptera musculus",
+    "key": 10030
+  },
+  {
+  "vernacularName": "Jacaré-açu",
+  "scientificName": "Melanosuchus niger",
+  "key": 10031
+  },
+  {
+    "vernacularName": "Jacaré-do-papo-amarelo",
+    "scientificName": "Caiman latirostris",
+    "key": 10032
+  },
+  {
+    "vernacularName": "Jacaré-de-pantanal",
+    "scientificName": "Caiman yacare",
+    "key": 10033
+  },
+  {
+    "vernacularName": "Pirarucu",
+    "scientificName": "Arapaima gigas",
+    "key": 10034
+  },
+  {
+    "vernacularName": "Dourado",
+    "scientificName": "Salminus brasiliensis",
+    "key": 10035
+  },
+  {
+    "vernacularName": "Piranha-vermelha",
+    "scientificName": "Pygocentrus nattereri",
+    "key": 10036
+  },
+  {
+    "vernacularName": "Peixe-elétrico",
+    "scientificName": "Electrophorus electricus",
+    "key": 10037
+  },
+  {
+    "vernacularName": "Tainha",
+    "scientificName": "Mugil liza",
+    "key": 10038
+  },
+  {
+  "vernacularName": "Cágado-de-barbicha",
+  "scientificName": "Phrynops geoffroanus",
+  "key": 10039
+  },
+  {
+    "vernacularName": "Tartaruga-da-amazônia",
+    "scientificName": "Podocnemis expansa",
+    "key": 10040
+  },
+  {
+    "vernacularName": "Lagosta-vermelha",
+    "scientificName": "Panulirus argus",
+    "key": 10041
+  },
+  {
+    "vernacularName": "Caranguejo-uçá",
+    "scientificName": "Ucides cordatus",
+    "key": 10042
+  },
+  {
+    "vernacularName": "Boto-cor-de-rosa",
+    "scientificName": "Inia geoffrensis",
+    "key": 10043
+  },
+  {
+    "vernacularName": "Boto cor de rosa",
+    "scientificName": "Inia geoffrensis",
+    "key": 10044
+  },
+  {
+    "vernacularName": "Boto-cinza",
+    "scientificName": "Sotalia guianensis",
+    "key": 10045
+  },
+  {
+    "vernacularName": "Tartaruga-de-pente",
+    "scientificName": "Eretmochelys imbricata",
+    "key": 10046
+  },
+  {
+    "vernacularName": "Tubarão-tigre",
+    "scientificName": "Galeocerdo cuvier",
+    "key": 10047
+  },
+  {
+    "vernacularName": "Tubarão-cabeça-chata",
+    "scientificName": "Carcharhinus leucas",
+    "key": 10048
+  },
+  {
+    "vernacularName": "Tubarão-lixa",
+    "scientificName": "Ginglymostoma cirratum",
+    "key": 10049
+  },
+  {
+    "vernacularName": "Tubarão-martelo-grande",
+    "scientificName": "Sphyrna mokarran",
+    "key": 10050
+  },
+  {
+    "vernacularName": "Tubarão-azul",
+    "scientificName": "Prionace glauca",
+    "key": 10051
+  },
+  {
+    "vernacularName": "Tubarão-anjo",
+    "scientificName": "Squatina guggenheim",
+    "key": 10052
+  },
+  {
+    "vernacularName": "Tubarão-galha-preta-do-recife",
+    "scientificName": "Carcharhinus melanopterus",
+    "key": 10053
+  },
+   {
+    "vernacularName": "Tubarão-galha-branca-oceânico",
+    "scientificName": "Carcharhinus longimanus",
+    "key": 10054
+  },
+  {
+    "vernacularName": "Sucuri-verde",
+    "scientificName": "Eunectes murinus",
+    "key": 10055
+  },
+  {
+    "vernacularName": "Sucuri-amarela",
+    "scientificName": "Eunectes notaeus",
+    "key": 10056
+  },
+  {
+    "vernacularName": "Cobra-d'água-listrada",
+    "scientificName": "Helicops angulatus",
+    "key": 10057
+  },
+  {
+    "vernacularName": "Cobra-d'água-neotropical",
+    "scientificName": "Helicops leopardinus",
+    "key": 10058
+  },
+  {
+    "vernacularName": "Falsa-coral-d'água",
+    "scientificName": "Erythrolamprus miliaris",
+    "key": 10059
+  },
+  {
+    "vernacularName": "Jararaca-do-brejo",
+    "scientificName": "Mastigodryas bifossatus",
+    "key": 10060
+  },
+  {
+    "vernacularName": "Cobra-marinha-comum",
+    "scientificName": "Hydrophis platurus",
+    "key": 10061
+  },
+  {
+    "vernacularName": "Cobra-marinha-de-bico",
+    "scientificName": "Enhydrina schistosa",
+    "key": 10062
+  },
+  {
+    "vernacularName": "Arraia-pintada",
+    "scientificName": "Aetobatus narinari",
+    "key": 10063,
+    "habitat": "Marinho (costas brasileiras)"
+  },
+  {
+    "vernacularName": "Arraia-elétrica",
+    "scientificName": "Narcine brasiliensis",
+    "key": 10064,
+    "habitat": "Marinho (fundos arenosos)"
+  },
+  {
+    "vernacularName": "Arraia-manteiga",
+    "scientificName": "Gymnura altavela",
+    "key": 10065,
+    "habitat": "Marinho (estuários e baías)"
+  },
+  {
+    "vernacularName": "Arraia-cururu",
+    "scientificName": "Potamotrygon motoro",
+    "key": 10066,
+    "habitat": "Água doce (Amazônia, Pantanal)"
+  },
+  {
+    "vernacularName": "Arraia-branca",
+    "scientificName": "Potamotrygon leopoldi",
+    "key": 10067,
+    "habitat": "Água doce (Rio Xingu)"
+  },
+  {
+    "vernacularName": "Arraia-lixa",
+    "scientificName": "Dasyatis hypostigma",
+    "key": 10068,
+    "habitat": "Marinho (costas rochosas)"
+  }
+]
